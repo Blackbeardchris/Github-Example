@@ -1,5 +1,6 @@
-Demo Readme
-rl,erp34
-fk
-XD
-some more poggers
+# Project Info
+Name:
+
+Student ID: 
+
+Date completed:
